@@ -1,9 +1,9 @@
 # Site settings
-title: Wiersma Brothers
-email: wiersmabrothers@gmail.com
-description: "We are Wiersma Brothers, three brothers specialised in the craft of visual storytelling. Our affinity with film drives us to make compelling, creative and well-tailored videos. We combine our backgrounds in product design, computer science and event management to quickly understand and translate your needs into powerful media."
+title: Joanne Dekker Design
+email: joannedekker@gmail.com
+description: "Design portfolio of Joanne Dekker"
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "http://www.wiersmabrothers.nl" # the base hostname & protocol for your site
+url: "https://joannedekker.nl" # the base hostname & protocol for your site
 
 twitter_username:
 github_username:
